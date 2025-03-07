@@ -10,9 +10,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="pyrgelis",
     version="0.1.0",
-    author="PyRgelis Team",
-    author_email="example@example.com",
-    description="A mesmerizing simulation of jellyfish-like creatures floating in a surreal space",
+    author="Vasilios Mavroudis",
+    author_email="mavroudisv@gmail.com",
+    description="Rgelis floating in a surreal space. You can only win.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/username/pyrgelis",
