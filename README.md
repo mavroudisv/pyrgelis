@@ -1,8 +1,8 @@
 # PyRgelis
 
-A mesmerizing simulation of jellyfish-like creatures floating in a surreal space.
+A simulation of Rgelis floating in a surreal space. You can only win.
 
-![PyRgelis Screenshot](https://via.placeholder.com/800x600.png?text=PyRgelis+Screenshot)
+<img src="screenshot.png" style="width:600px;"/>
 
 ## Description
 
@@ -99,7 +99,6 @@ game.run()
 
 - Vibrant, colorful jellyfish-like creatures
 - Emergent behavior through simple interaction rules
-- Relaxing, meditative visualization
 - Interactive summoning of new creatures
 - Score tracking for interactions
 
